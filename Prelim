@@ -1,0 +1,19 @@
+ import java.util.Scanner;
+ 
+   public class PreLim {
+   public static void main (String[] args) {
+   
+   Scanner scanner = new Scanner ()
+     
+   int f = 0;
+   int n = 1;
+   
+      System.out.println("");
+      
+      
+
+             
+                          
+    }
+   
+ }
